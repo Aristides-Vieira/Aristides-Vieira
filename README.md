@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Java, Javascript, Spring, Rest.
 
-- 💬 Ask me about anything at <a href="aristidesv3@gmail.com "><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> ||  <a href="https://www.linkedin.com/in/aristidesvieira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- 💬 Ask me about anything at <a href="aristidesv3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> ||  <a href="https://www.linkedin.com/in/aristidesvieira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 - ⚡ <a href="https://drive.google.com/file/d/18awgLyMWjutMubhQgWyAoraRccEK9uV_/view?usp=sharing"> Download my Curriculum Vitae</a>
