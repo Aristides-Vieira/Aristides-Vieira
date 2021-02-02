@@ -1,8 +1,15 @@
-<h1 align="center"> Hi, and welcome to my Github page!</h1>
+<h1 align="center">
+  <div> 
+    Hi, and welcome to my Github page!      <img src="https://media1.giphy.com/media/UrQS3c4UKGEZnkJM7l/giphy.gif?cid=ecf05e47d68f831cd491c375f56499330c5cf301a33efd6c&rid=giphy.gif " alt="Spring" width="95" height="80" style="max-width:100%;">
+  </div>
+    </h1>
 
+
+<div> <p> </p></div>
 <h3 align="center">Take a look at <a href="https://aristides-vieira.github.io/">Aristides Vieira Portfolio</a> to know me better! </h3>
 
-
+<div> <p> </p></div>
+<div> <p> </p></div>
 
 - 🌱 I’m currently learning Java, Javascript, Spring, Rest.
 
@@ -14,10 +21,10 @@
 - 😄 Fun fact about me: I am a very curious person that's always looking for new challenges!
 
 
-
+<div> <p> </p></div>
 
 <h1 align="center"> Some of the Technologies that I use: </h1>
-
+<div> <p> </p></div>
 
 <h2>Back End</h2>
 <div>
