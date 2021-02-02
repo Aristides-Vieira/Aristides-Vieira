@@ -1,4 +1,4 @@
-
+<h1 align="center"> Hi, and welcome to my Github page!</h1>
 
 <h3 align="center">Take a look at <a href="https://aristides-vieira.github.io/">Aristides Vieira Portfolio</a> to know me better! </h3>
 
@@ -32,7 +32,7 @@
 
 <h2>Front End</h2>
 <div>
-<img src="https://github.com/Aristides-Vieira/icons/blob/master/kisspng-javascript-programming-language-ajax-5b0b285b9846b7.8510968715274578836237.png?raw=true" alt="JavaScript" width="80" height="80" style="max-width:100%;">
+<img src="https://github.com/Aristides-Vieira/icons/blob/master/kisspng-javascript-programming-language-ajax-5b0b285b9846b7.8510968715274578836237.png?raw=true" alt="JavaScript" width="100" height="80" style="max-width:100%;">
 
 <img src="https://github.com/Aristides-Vieira/icons/blob/master/kisspng-html-web-design-scalable-vector-graphics-world-wid-html5-icon-hd-5ab0c85c377aa0.0639325615215350682273.png?raw=true" alt="HTML" width="100" height="80" style="max-width:100%;">
 
