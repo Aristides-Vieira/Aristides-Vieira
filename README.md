@@ -1,3 +1,5 @@
+
+
 <h1 align="center">
   <div> 
     Hi, and welcome to my Github page!      <img src="https://media1.giphy.com/media/UrQS3c4UKGEZnkJM7l/giphy.gif?cid=ecf05e47d68f831cd491c375f56499330c5cf301a33efd6c&rid=giphy.gif " alt="Spring" width="95" height="80" style="max-width:100%;">
@@ -11,7 +13,8 @@
 
 - 🌱 I’m currently learning Java, Javascript, Spring, Rest.
 
-- 💬 Ask me about anything at <a href="https://www.linkedin.com/in/aristidesvieira/"><i class="fa fa-linkedin"></i></a>  || <a href="aristidesv3@gmail.com"><i class="fa fa-email"></i></a>
+- 💬 Ask me about anything at <a href="aristidesv3@gmail.com "><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> ||  <a href="https://www.linkedin.com/in/aristidesvieira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 
 - ⚡ <a href="https://drive.google.com/file/d/18awgLyMWjutMubhQgWyAoraRccEK9uV_/view?usp=sharing"> Download my Curriculum Vitae</a>
 
