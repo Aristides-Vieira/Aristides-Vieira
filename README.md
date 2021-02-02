@@ -5,16 +5,13 @@
     </h1>
 
 
-<div> <p> </p></div>
 <h3 align="center">Take a look at <a href="https://aristides-vieira.github.io/">Aristides Vieira Portfolio</a> to know me better! </h3>
 
-<div> <p> </p></div>
-<div> <p> </p></div>
+
 
 - 🌱 I’m currently learning Java, Javascript, Spring, Rest.
 
-- 💬 Ask me about anything at <img src="https://camo.githubusercontent.com/3869831684498919d1ee83b8244704f4de50910eabcc464c324a0a79458606df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6e6164612e676572616c40676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:aristidesv3@gmail.com" style="max-width:100%;">
-  ||   <img src="https://camo.githubusercontent.com/19ab66b156bdb4b9f3e20619e5a8093d542519975f2e242dee14bb0f86ff4ac2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f66696c697065616e746f6e696f6d6f74612f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/aristidesvieira/" style="max-width:100%;">
+- 💬 Ask me about anything at <a href="https://www.linkedin.com/in/aristidesvieira/"><i class="fa fa-linkedin"></i></a>  || <a href="aristidesv3@gmail.com"><i class="fa fa-email"></i></a>
 
 - ⚡ <a href="https://drive.google.com/file/d/18awgLyMWjutMubhQgWyAoraRccEK9uV_/view?usp=sharing"> Download my Curriculum Vitae</a>
 
